@@ -1,7 +1,7 @@
 url: https://spreekwoorden.nl
-status: up
-code: 200
-responseTime: 662
-lastUpdated: 2024-10-17T23:00:50.262Z
+status: down
+code: 500
+responseTime: 2055
+lastUpdated: 2024-10-18T13:28:27.399Z
 startTime: 2024-10-16T20:27:54.205Z
 generator: Upptime <https://github.com/upptime/upptime>
