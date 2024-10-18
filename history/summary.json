@@ -22,19 +22,19 @@
     "url": "https://spreekwoorden.nl",
     "icon": "https://icons.duckduckgo.com/ip3/spreekwoorden.nl.ico",
     "slug": "spreekwoorden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 1359,
-    "timeWeek": 976,
-    "timeMonth": 976,
-    "timeYear": 976,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 925,
+    "timeDay": 1129,
+    "timeWeek": 925,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2024-10-18": 0
+      "2024-10-18": 10
     }
   }
 ]
