@@ -11,10 +11,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 1077,
-    "timeDay": 1100,
-    "timeWeek": 1090,
-    "timeMonth": 1132,
-    "timeYear": 1080,
+    "timeDay": 1019,
+    "timeWeek": 1042,
+    "timeMonth": 1133,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-10-10": 30,
       "2025-10-01": 30,
@@ -30,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/spreekwoorden.nl.ico",
     "slug": "spreekwoorden",
     "status": "up",
-    "uptime": "94.21%",
+    "uptime": "94.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "94.07%",
-    "time": 792,
-    "timeDay": 767,
-    "timeWeek": 729,
-    "timeMonth": 1001,
-    "timeYear": 791,
+    "time": 791,
+    "timeDay": 660,
+    "timeWeek": 705,
+    "timeMonth": 1010,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2025-10-18": 8,
       "2025-10-16": 24,
@@ -95,8 +95,7 @@
       "2024-11-25": 10,
       "2024-11-19": 8,
       "2024-11-08": 9,
-      "2024-11-03": 14,
-      "2024-10-27": 8
+      "2024-11-03": 14
     }
   }
 ]
