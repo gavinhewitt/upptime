@@ -1,7 +1,7 @@
 url: https://straatwoordenboek.nl
-status: up
-code: 200
-responseTime: 1023
-lastUpdated: 2026-01-07T23:00:45.478Z
+status: down
+code: 502
+responseTime: 684
+lastUpdated: 2026-01-08T06:39:54.251Z
 startTime: 2024-10-16T20:27:52.622Z
 generator: Upptime <https://github.com/upptime/upptime>
