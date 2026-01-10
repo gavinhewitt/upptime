@@ -4,7 +4,7 @@
     "url": "https://straatwoordenboek.nl",
     "icon": "https://icons.duckduckgo.com/ip3/straatwoordenboek.nl.ico",
     "slug": "swb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 1156,
     "timeYear": 1118,
     "dailyMinutesDown": {
+      "2026-01-10": 0,
       "2026-01-08": 16,
       "2025-12-24": 50,
       "2025-12-20": 9,
